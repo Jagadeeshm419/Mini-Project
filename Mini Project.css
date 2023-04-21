@@ -1,0 +1,55 @@
+#header{
+    padding: 20px;
+    margin: 35px;
+    border-radius: 20px;
+    font-size:15px;
+    text-decoration: overline underline;
+    letter-spacing:0.5px;
+    word-spacing: 10px;
+    text-align:center;
+    font-family: fantasy;
+    position:relative;
+    color: rgb(197, 64, 64);
+    background-size: cover;
+    background-image: linear-gradient(120deg, rgba(233, 124, 35, 0.986), rgb(255, 255, 255), rgb(51, 191, 238), rgb(255, 255, 255), rgb(93, 238, 93));
+}
+body{
+    background-image: url('https://img.freepik.com/free-vector/indian-tricolor-theme-watercolor-texture-patriotic-background-vector_1055-11952.jpg?w=826&t=st=1669174738~exp=1669175338~hmac=70df1bd50d2b71577df15ed2b12e38d2e9e41c03f6389febb9362d71ae1fd694');
+    background-size:cover;            
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: small;
+    font-family: Arial;
+    font-style:normal;
+    color: rgb(14, 145, 221);
+}
+.col:hover{
+    transition: transform .3s;
+    transform: scale(1.2);
+}
+img{
+    border-radius:40px;
+    box-shadow: 10px 10px 4px #afafaf;
+}
+#footer{
+    padding: 20px;
+    margin: 35px;
+    border-radius: 20px;
+    text-align: center;
+    position:relative;
+    background-size: cover;
+    background-image: linear-gradient(120deg, rgba(233, 124, 35, 0.986), rgb(255, 255, 255), rgb(51, 191, 238), rgb(255, 255, 255), rgb(93, 238, 93));
+}
+#footer h3{
+    font-family: fantasy;
+    color: rgb(197, 64, 64);
+    text-decoration: overline underline;
+    letter-spacing:0.5px;
+    word-spacing: 10px;
+}
+#footer h2{
+    font-family: arial;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgb(5, 34, 24);
+}
